@@ -29,6 +29,7 @@ BlackRoad OS, Inc. is a Delaware C-Corporation building a sovereign operating sy
 | [ROADMAP.md](ROADMAP.md) | Priorities, 5-year plan, current state |
 | [IP.md](IP.md) | Intellectual property, license, AI policy |
 | [SEO.md](SEO.md) | AI-driven SEO strategy, the search-traffic loop |
+| [HAILO.md](HAILO.md) | Hailo-8 NPU specs, benchmarks, integration details |
 
 ---
 
