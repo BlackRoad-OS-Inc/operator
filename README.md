@@ -28,6 +28,7 @@ BlackRoad OS, Inc. is a Delaware C-Corporation building a sovereign operating sy
 | [DOMAINS.md](DOMAINS.md) | All 20 domains, 126 subdomains, DNS architecture |
 | [ROADMAP.md](ROADMAP.md) | Priorities, 5-year plan, current state |
 | [IP.md](IP.md) | Intellectual property, license, AI policy |
+| [SEO.md](SEO.md) | AI-driven SEO strategy, the search-traffic loop |
 
 ---
 
